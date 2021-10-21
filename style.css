@@ -1,0 +1,54 @@
+#banner {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    margin: 25px;
+    background-color: rgb(204, 230, 255);
+    border-style: dashed;
+    border-color: rgb(0, 51, 128);
+    border-width: 5px;
+}
+
+#h1Banner {
+    font-size: 65px;
+}
+
+#h2Banner {
+    font-size: 40px;
+}
+
+#h3Banner {
+    font-size: 25px;
+}
+
+#navBar {
+    background-color: rgb(255, 255, 0);
+    overflow: hidden;
+    border-radius: 12px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.navBarLink {
+    display: block;
+    padding: 8px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    float: left;
+}
+
+li a:hover {
+    background-color: rgb(230, 230, 0);
+}
+
+body {
+    background-color: rgb(255, 255, 204);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
