@@ -1,3 +1,4 @@
+016f2f5	AYSHA ELSHERIF	Thu Oct 21 18:19:50 2021	created style.css added css for banner, navigation bar and body of page
 fbbc82b	AYSHA ELSHERIF	Wed Oct 20 19:04:47 2021	added navagation bar to homepage
 9f55436	AYSHA ELSHERIF	Wed Oct 20 18:48:43 2021	added banner to homepage
 015e412	AYSHA ELSHERIF	Wed Oct 20 17:53:20 2021	started homepage

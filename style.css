@@ -4,9 +4,8 @@
     padding: 20px;
     margin: 25px;
     background-color: rgb(204, 230, 255);
-    border-style: dashed;
-    border-color: rgb(0, 51, 128);
-    border-width: 5px;
+    border: 10px solid transparent; /* css for making a picture a border is from: https://www.w3schools.com/css/css3_border_images.asp */
+    border-image: url(myBorder.png) 30 round;
 }
 
 #h1Banner {
