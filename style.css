@@ -4,7 +4,7 @@
     padding: 20px;
     margin: 25px;
     background-color: rgb(204, 230, 255);
-    border: 10px solid transparent; /* css for making a picture a border is from: https://www.w3schools.com/css/css3_border_images.asp */
+    border: 10px solid transparent; /* I found the css for making a picture a border from: https://www.w3schools.com/css/css3_border_images.asp */
     border-image: url(myBorder.png) 30 round;
 }
 
@@ -28,9 +28,38 @@
     margin-right: 25px;
 }
 
+#lemmingsTable {
+    float: right;
+}
+
+#lemmingsPhoto {
+    height: 350px;
+    width: 350px;
+    margin-right: 20px;
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(0, 102, 0);
+}
+
+#lemmingsCaption {
+    text-align: center;
+    padding-right: 20px;
+}
+
 .navBarLink {
     display: block;
     padding: 8px;
+}
+
+.pageText {
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: rgb(128, 193, 255);
+    border-color: rgb(0, 0, 0);
+    border-style: dotted;
+    border-width: 3px;
+    border-radius: 12px;
 }
 
 ul {
@@ -43,6 +72,7 @@ li {
     float: left;
 }
 
+
 li a:hover {
     background-color: rgb(230, 230, 0);
 }
@@ -50,4 +80,21 @@ li a:hover {
 body {
     background-color: rgb(255, 255, 204);
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h4 {
+    text-align: center;
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+table {
+    border: 3px rgb(0, 102, 0);
+    border-collapse: collapse;
 }
