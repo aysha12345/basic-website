@@ -1,10 +1,12 @@
+/* id's used on all pages */
 #banner {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
     padding: 20px;
     margin: 25px;
     background-color: rgb(204, 230, 255);
-    border: 10px solid transparent; /* I found the css for making a picture a border from: https://www.w3schools.com/css/css3_border_images.asp */
+     /* I found the css for making a picture a border from: https://www.w3schools.com/css/css3_border_images.asp */
+    border: 10px solid transparent;
     border-image: url(myBorder.png) 30 round;
 }
 
@@ -28,6 +30,7 @@
     margin-right: 25px;
 }
 
+/* id's only used on home.html*/
 #lemmingsTable {
     float: right;
 }
@@ -46,10 +49,7 @@
     padding-right: 20px;
 }
 
-#referencesTitle {
-    
-}
-
+/* classes used on all pages */
 .navBarLink {
     display: block;
     padding: 8px;
@@ -75,6 +75,7 @@
     padding: 10px;
 }
 
+/* other css that is also used on all pages */
 ul {
     list-style-type: none;
     margin: 0px;
