@@ -1,3 +1,4 @@
+1bc35cc	AYSHA ELSHERIF	Sat Oct 23 18:39:49 2021	added text to history page and formatted it all in css
 939fe6a	AYSHA ELSHERIF	Sat Oct 23 09:04:32 2021	added history and visiting page
 796b8d7	AYSHA ELSHERIF	Fri Oct 22 19:06:54 2021	added references section to homepage
 6fd6bb3	AYSHA ELSHERIF	Fri Oct 22 17:31:19 2021	added photo and caption with source to homepage
