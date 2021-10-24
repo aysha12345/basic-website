@@ -30,11 +30,22 @@
     margin-right: 25px;
 }
 
-/* id's only used on index.html*/
-#lemmingsTable {
-    float: right;
+#navUl {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    
 }
 
+#navLi {
+    float: left;
+}
+
+#navLi:hover {
+    background-color: rgb(230, 230, 0);
+}
+
+/* id's only used on index.html*/
 #lemmingsPhoto {
     height: 350px;
     width: 350px;
@@ -61,10 +72,6 @@
     border-style: solid;
     border-color: rgb(0, 102, 0);
     
-}
-
-#whaleTable {
-    float: right;
 }
 
 #whalePhoto {
@@ -94,10 +101,6 @@
     
 }
 
-#dcThomsonTable {
-    float: right;
-}
-
 #dcThomsonPhoto {
     margin-top: 10px;
     margin-right: 10px;
@@ -110,6 +113,49 @@
 #dcThomsonCaption {
     text-align: center;
 }
+
+/* ids only used on essential.html */
+#discoveryPhoto {
+    height: 200px;
+    width: 200px;
+    margin-top: -90px;
+    border-style: solid;
+    border-color: rgb(0, 102, 0);
+}
+
+#unicornTable {
+    float: right;
+    margin-right: 10px;
+    margin-top: -90px;
+}
+
+#unicornPhoto {
+    height: 250px;
+    width: 250px;
+    border-style: solid;
+    border-color: rgb(0, 102, 0);
+}
+
+#mcmanusPhoto {
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-style: solid;
+    border-color: rgb(0, 102, 0);
+}
+
+#mcmanusCaption {
+    text-align: center;
+}
+
+#vicAPhoto {
+    height: 250px;
+    width: 250px;
+    border-style: solid;
+    border-color: rgb(0, 102, 0);
+}
+
 /* classes used on all pages */
 .navBarLink {
     display: block;
@@ -127,31 +173,26 @@
     border-radius: 12px;
 }
 
+.photoTable {
+    float: right;
+}
+
 .references {
     font-size: 20px;
 }
 
 .referenceText {
     text-align: center;
+    font-size: 20px;
     padding: 10px;
 }
 
+/* classes only used on essential.html */
+.listText {
+    font-size: 20px;
+}
+
 /* other css that is also used on all pages */
-ul {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-}
-
-li {
-    float: left;
-}
-
-
-li a:hover {
-    background-color: rgb(230, 230, 0);
-}
-
 body {
     background-color: rgb(255, 255, 204);
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
