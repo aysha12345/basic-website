@@ -60,6 +60,10 @@
     padding-right: 20px;
 }
 
+#map {
+    padding: 10px;
+}
+
 /* id's only used on history.html */
 #memorialTable {
     float: right;
@@ -192,7 +196,29 @@
     font-size: 20px;
 }
 
+.left {
+    float: left;
+    padding: 10px;
+    width: 50%;
+}
+
+.right {
+    float: left;
+    padding: 10px;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 /* other css that is also used on all pages */
+
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: rgb(255, 255, 204);
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
