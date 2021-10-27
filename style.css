@@ -49,15 +49,9 @@
 #lemmingsPhoto {
     height: 350px !important;
     width: 350px !important;
-    margin-right: 20px !important;
     border: 3px !important;
     border-style: solid !important;
     border-color: rgb(0, 102, 0) !important;
-}
-
-#lemmingsCaption {
-    text-align: center; !important
-    padding-right: 20px !important;
 }
 
 #map {
@@ -65,72 +59,52 @@
 }
 
 /* id's only used on history.html */
-#memorialTable {
-    float: right !important;
-    padding-top: 10px !important;
-}
-
 #memorialPhoto {
     height: 250px !important;
     width: 250px !important;
+    border: 3px !important;
     border-style: solid !important;
-    border-color: rgb(0, 102, 0) !important;
-    
+    border-color: rgb(0, 102, 0) !important;   
 }
 
 #whalePhoto {
     height: 350px !important;
     width: 350px !important;
+    border: 3px !important;
     border-style: solid !important;
-    border-color: rgb(0, 102, 0) !important;
-    
-    
-}
-
-#whaleCaption {
-    text-align: center !important;
-}
-
-#bridgeTable {
-    float: right !important;
+    border-color: rgb(0, 102, 0) !important;   
 }
 
 #bridgePhoto {
     height: 250px !important;
     width: 250px !important;
+    border: 3px !important;
     border-style: solid !important;
     border-color: rgb(0, 102, 0) !important;
     
 }
 
 #dcThomsonPhoto {
-    margin-right: 10px !important;
     height: 300px !important;
     width: 600px !important;
+    border: 3px !important;
     border-style: solid !important;
     border-color: rgb(0, 102, 0) !important;
-}
-
-#dcThomsonCaption {
-    text-align: center !important;
 }
 
 /* ids only used on essential.html */
 #discoveryPhoto {
-    height: 200px !important;
-    width: 200px !important;
+    height: 300px !important;
+    width: 300px !important;
+    border: 3px !important;
     border-style: solid !important;
     border-color: rgb(0, 102, 0) !important;
-}
-
-#unicornTable {
-    float: right;
-    margin-right: 10px !important;
 }
 
 #unicornPhoto {
     height: 250px !important;
     width: 250px !important;
+    border: 3px !important;
     border-style: solid !important;
     border-color: rgb(0, 102, 0) !important;
 }
@@ -139,17 +113,16 @@
     height: 300px !important;
     width: 300px !important;
     margin-right: 10px !important;
+    border: 3px !important;
     border-style: solid !important;
     border-color: rgb(0, 102, 0) !important;
 }
 
-#mcmanusCaption {
-    text-align: center !important;
-}
 
 #vicAPhoto {
     height: 250px !important;
     width: 250px !important;
+    border: 3px !important;
     border-style: solid !important;
     border-color: rgb(0, 102, 0) !important;
 }
@@ -176,6 +149,11 @@
 
 .photoTable {
     float: right !important;
+    margin: 10px !important;
+}
+
+.photoText {
+    text-align: center;
 }
 
 .references {
