@@ -17,14 +17,20 @@
                 <h2 id="h2Banner">Founded 1892<sup>1</sup></h2>
                 <h3 id="h3Banner">Dei Donum - Gift of God<sup>2</sup></h3>
             </div>
-            <!-- html to make a navagation bar from: https://www.w3schools.com/css/css_navbar.asp -->
-            <div id="navBar">
-                <ul id="navUl">
-                    <li id="navLi"><a class="navBarLink" href="index.html">Homepage</a></li>
-                    <li id="navLi"><a class="navBarLink" href="history.html">Dundee's History</a></li>
-                    <li id="navLi"><a class="navBarLink" href="essential.html">Essential Experiences</a></li>
-                </ul>
-            </div>
+            <!-- bootstrap to make a navagation bar from: https://getbootstrap.com/docs/4.0/components/navbar/
+            and: https://getbootstrap.com/docs/4.0/components/navbar/-->
+            <nav class="navbar navbar-expand-lg navbar-info bg-info">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="#">Dundee</a>
+                    </div>
+                    <ul class="nav navbar-nav">
+                        <li><a href="index.html">Homepage</a></li>
+                        <li><a href="history.html">Dundee's History</a></li>
+                        <li class="active"><a href="#">Essential Experiences</a></li>
+                    </ul>
+                </div>
+            </nav>
             <div class="row">
                 <div class="col-sm-7">
                     <div class="collapse" id="hmsText">
