@@ -1,3 +1,8 @@
+7e93021	AYSHA ELSHERIF	Thu Oct 28 20:09:00 2021	added bootstrap navbar to all pages
+ce30a02	AYSHA ELSHERIF	Thu Oct 28 19:58:29 2021	added bootstrap navbar to index.html now removing html navbar and replacing with bootstrap one on other pages
+cedbad3	AYSHA ELSHERIF	Wed Oct 27 19:23:33 2021	added bootstrap to pictures
+6a23bc2	AYSHA ELSHERIF	Wed Oct 27 18:52:34 2021	applied columns to essential page with bootstrap. Now working on applying bootstrap required in Section E
+ca5cff3	AYSHA ELSHERIF	Mon Oct 25 18:50:51 2021	added static map and started working on the columns
 38003f4	AYSHA ELSHERIF	Sun Oct 24 19:13:57 2021	added and formatted pictures to history page, added and formatted text and  pictures to essential experiences page alongside references
 d4efd35	AYSHA ELSHERIF	Sat Oct 23 18:40:51 2021	added pictures and formatted them in history page
 1bc35cc	AYSHA ELSHERIF	Sat Oct 23 18:39:49 2021	added text to history page and formatted it all in css
