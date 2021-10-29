@@ -1,3 +1,4 @@
+18214ea	AYSHA ELSHERIF	Thu Oct 28 21:17:40 2021	added readme and also fixed references
 7e93021	AYSHA ELSHERIF	Thu Oct 28 20:09:00 2021	added bootstrap navbar to all pages
 ce30a02	AYSHA ELSHERIF	Thu Oct 28 19:58:29 2021	added bootstrap navbar to index.html now removing html navbar and replacing with bootstrap one on other pages
 cedbad3	AYSHA ELSHERIF	Wed Oct 27 19:23:33 2021	added bootstrap to pictures

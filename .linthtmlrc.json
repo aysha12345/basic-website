@@ -10,7 +10,7 @@
         "doctype-first": true,
         "head-req-title": true,
         "head-valid-content-model": true,
-        "href-style" : true,
+        "href-style" : false,
         "html-req-lang": true,
         "tag-close": true,
         "tag-name-lowercase": true
