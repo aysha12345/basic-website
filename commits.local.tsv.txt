@@ -1,3 +1,4 @@
+d18e71e	AYSHA ELSHERIF	Fri Oct 29 18:31:28 2021	final fixes - fixed spelling mistakes and removed redundant html and css hopefully got everything
 a7e57bf	AYSHA ELSHERIF	Fri Oct 29 16:54:18 2021	just noticed essential.html should be called visit.html and fixed it
 d562640	AYSHA ELSHERIF	Fri Oct 29 16:52:58 2021	checked all 3 pages in linthtml and added minor fixes to validate them
 18214ea	AYSHA ELSHERIF	Thu Oct 28 21:17:40 2021	added readme and also fixed references
