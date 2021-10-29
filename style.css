@@ -5,7 +5,7 @@
     padding: 20px !important;
     margin: 25px !important;
     background-color: rgb(204, 230, 255) !important;
-     /* I found the css for making a picture a border from: https://www.w3schools.com/css/css3_border_images.asp */
+    /* I found the css for making a picture a border from: https://www.w3schools.com/css/css3_border_images.asp */
     border: 10px solid transparent !important;
     border-image: url(myBorder.png) 30 round !important;
 }
@@ -20,29 +20,6 @@
 
 #h3Banner {
     font-size: 25px !important;
-}
-
-#navBar {
-    background-color: rgb(255, 255, 0) !important;
-    overflow: hidden !important;
-    border-radius: 12px !important;
-    margin-left: 25p !importantx;
-    margin-right: 25px !important;
-}
-
-#navUl {
-    list-style-type: none !important;
-    margin: 0px !important;
-    padding: 0px !important;
-    
-}
-
-#navLi {
-    float: left !important;
-}
-
-#navLi:hover {
-    background-color: rgb(230, 230, 0) !important;
 }
 
 /* id's only used on index.html*/
@@ -128,11 +105,6 @@
 }
 
 /* classes used on all pages */
-.navBarLink {
-    display: block !important;
-    padding: 8px !important;
-}
-
 .pageText {
     overflow: auto;
     height: auto;
@@ -167,6 +139,7 @@
 .listText {
     font-size: 20px !important;
 }
+
 /* other css that is also used on all pages */
 body {
     background-color: rgb(255, 255, 204) !important;
